@@ -10,7 +10,14 @@ Stepper motors and extension cables have been purchased(9/10) and received (9/12
 Stepper control boxes will be ordered pending Vijay's approval. These are sold on Amazon so they should be delivered by Monday.
 PCB is in-progress but I need to find a way to reduce to 1oz copper from 3oz. This is on the back-burner because I'm focusing on integration
 
-Andrew - 
+Andrew - Power Supply:
+* Sponsors let me know which type of tractors will be used to tow the trailer
+     -The smallest tractor, the John Deere 2440, has the smallest alternator which is about 12V, 37Amps. 
+     -Need to meet with Dr. Lusher to discuss which DC-DC battery charger should be used. 
+* Completed main layout of the 12V 5A buck-boost converter.
+     -Need to figure out output pins that will go on the PCB. 
+     -Need to meet with Dr. Lusher to discuss the best way to arrange the buck-boost converters
+          +One big PCB or multiple PCBs 
 
 Karthik - Laser Research & Analysis
 + Met with Extended team to layout Requirements for this Semester
